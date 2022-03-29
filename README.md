@@ -56,8 +56,7 @@ You can end driving and inquire about your driving record, gps information and s
     Android Studio project.
 
 *   From the Open File or Project window that appears, navigate to and select
-    the tensorflow-lite/examples/object_detection/android directory from
-    wherever you cloned the TensorFlow Lite sample GitHub repo. Click OK.
+    the Android directory.
 
 *   If it asks you to do a Gradle Sync, click OK.
 
