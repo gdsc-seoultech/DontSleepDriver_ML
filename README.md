@@ -14,7 +14,7 @@ You can end driving and inquire about your driving record, gps information and s
 - [Android](https://github.com/gdsc-seoultech/DontSleepDriver_Android)
 - [ML](https://github.com/gdsc-seoultech/DontSleepDriver_ML)
 - [BackEnd](https://github.com/gdsc-seoultech/DontSleepDriver_Back)
-## :아빠_엄마_딸_아들: Team Member
+## 👨‍: Team Member
 <table algin=“center”>
    <tr>
       <td colspan=“2" align=“center”><strong>Back-End</strong></td>
