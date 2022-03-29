@@ -15,26 +15,26 @@ You can end driving and inquire about your driving record, gps information and s
 - [ML](https://github.com/gdsc-seoultech/DontSleepDriver_ML)
 - [BackEnd](https://github.com/gdsc-seoultech/DontSleepDriver_Back)
 ## 👨‍: Team Member
-<table algin=“center”>
+<table algin="center">
    <tr>
-      <td colspan=“2" align=“center”><strong>Back-End</strong></td>
-      <td colspan=“1" align=“center”><strong>Android</strong></td>
-      <td colspan=“1" align=“center”><strong>ML</strong></td>
+      <td colspan="2" align="center"><strong>Back-End</strong></td>
+      <td colspan="1" align="center"><strong>Android</strong></td>
+      <td colspan="1" align="center"><strong>ML</strong></td>
    </tr>
   <tr>
-     <td align=“center”>
-        <a href=“https://github.com/InHyeok-J”><img src=“https://avatars.githubusercontent.com/u/28949213?v=4” width=“150px” alt=“조인혁“/><br /><sub><b>조인혁</b></sub></a>
+     <td align="center">
+        <a href="https://github.com/InHyeok-J"><img src="https://avatars.githubusercontent.com/u/28949213?v=4" width="150px" alt="조인혁"/><br /><sub><b>조인혁</b></sub></a>
      </td>
-    <td align=“center”>
-    <a href=“https://github.com/ehrwk”><img src=“https://avatars.githubusercontent.com/u/81352045?v=4” width=“150px;” alt=“윤희서“/><br /><sub><b>윤희서</b></sub></a><br />
+    <td align="center">
+    <a href="https://github.com/ehrwk"><img src="https://avatars.githubusercontent.com/u/81352045?v=4" width="150px;" alt="윤희서"/><br /><sub><b>윤희서</b></sub></a><br />
     </td>
-     <td align=“center”>
-        <a href=“https://github.com/comye1”><img src=“https://avatars.githubusercontent.com/u/50735594?v=4” width=“150px” alt=“김예원“/><br /><sub><b>김예원</b></sub></a>
+     <td align="center">
+        <a href="https://github.com/comye1"><img src="https://avatars.githubusercontent.com/u/50735594?v=4" width="150px" alt="김예원"/><br /><sub><b>김예원</b></sub></a>
      </td>
-     <td align=“center”>
-        <a href=“https://github.com/keonju2”><img src=“https://avatars.githubusercontent.com/u/54880474?v=4” width=“150px” alt=“나건주“/><br /><sub><b>나건주</b></sub></a>
+     <td align="center">
+        <a href="https://github.com/keonju2"><img src="https://avatars.githubusercontent.com/u/54880474?v=4" width="150px" alt="나건주"/><br /><sub><b>나건주</b></sub></a>
   <tr>
-</table>
+</table> 
 
 
 ## Build the demo using Android Studio
