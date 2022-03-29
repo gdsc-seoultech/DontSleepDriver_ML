@@ -36,7 +36,14 @@ You can end driving and inquire about your driving record, gps information and s
   <tr>
 </table> 
 
+# This Android App not used our project
 
+The original plan was to build tensorflow lite, but due to time constraints, we used ML kit.  
+This repository is the ML learning model that I was originally going to use and the repository that I tested on tensorflow lite and Android.
+So if you want to see our application, please go [Android](https://github.com/gdsc-seoultech/DontSleepDriver_Android).
+
+   
+     
 ## Build the demo using Android Studio
 
 ### Prerequisites
